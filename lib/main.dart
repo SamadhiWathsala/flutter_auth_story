@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_auth_story/home.dart';
+import 'package:flutter_auth_story/views/home.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,5 +19,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
